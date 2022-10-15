@@ -8,15 +8,27 @@ Using this data, I tried to analyze and identify the most influencial users with
 
 ## Main results and methods used
 
+### 1. Reading and analyzing initial data with Pandas and Numpy
+
 ![1. Reading and analyzing initial data with Pandas and Numpy](./results/analyzing-data.png)
+
+### 2. Preparing and minimizing data with Pandas for limited processing time
 
 ![2. Preparing and minimizing data with Pandas for limited processing time](./results/preparing-data.png)
 
+### 3. Creating a graph with trios of (retweeter, retweetee, tweet_count) with Networkx
+
 ![3. Creating a graph with trios of (retweeter, retweetee, tweet_count) with Networkx](./results/creating-graph.png)
+
+### 4. Calculating betweenness and other centralities with Networkx
 
 ![4. Calculating betweenness and other centralities with Networkx](./results/calculating-betweenness-centrality.png)
 
+### 5. Visualizing the graph with Matplotlib
+
 ![5. Visualizing the graph with Matplotlib](./results/visualizing-graph.png)
+
+### 6. Modifying the graph and adding visual aids with Networkx and Matplotlib
 
 ![6. Modifying the graph and adding visual aids with Networkx and Matplotlib](./results/sna-mongolia-tweets.png)
 
