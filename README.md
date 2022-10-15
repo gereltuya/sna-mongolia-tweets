@@ -1,1 +1,1 @@
-# sna_mongolia_tweets
+# Social Network Analysis on Mongolia-related Tweets
