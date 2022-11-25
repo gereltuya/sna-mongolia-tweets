@@ -40,7 +40,7 @@ Using this data, I tried to analyze and identify the most influencial users with
 pip install -r requirements.txt
 ```
 
-After preparing the environment, please start the jupyter notebook **sna_mongolia_tweets.ipynb** and follow the code steps.
+After preparing the environment, please start the jupyter notebook **sna-mongolia-tweets.ipynb** and follow the code steps.
 
 ### Data
 
